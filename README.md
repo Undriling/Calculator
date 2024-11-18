@@ -1,7 +1,7 @@
 # Calculator
 Features - 
 1/ Back button - If we click on Back Btn , it shows the previous result.( After click on equal button, it stores the result in Local Storage)
-2/ AC - All Clear Button
+2/ AC - All Clear Button.
 3/ Delete - Delete last digit.
 
 ![Screenshot 2024-11-18 161041](https://github.com/user-attachments/assets/af76c811-3556-4543-895b-aaa2d5d7e37f)
